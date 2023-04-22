@@ -7,3 +7,4 @@
 # Buzlu Kahve Network
 <p>Karantina D&ouml;neminin En B&uuml;y&uuml;k Tanığı Buzlu Kahve Networku Ziyaret Edin!</p>
 <p><a href="https://ardskrl.github.io/buzlukahve/">Gitmek İ&ccedil;in Tıklayın</a></p>
+<p><em>A&ccedil;ılmıyorsa Psiphon3 veya herhangi bir VPN ile deneyin.</em></p>
