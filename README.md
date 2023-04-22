@@ -1,5 +1,5 @@
 # Biha RAOFL Fotoğrafları İndirme Yönlendiricisi
-<p><a href="https://www.youtube.com/watch?v=cPJUBQd-PNM">İndirmek İ&ccedil;in Tıklayın</a></p>
+<p><a href="https://www.mediafire.com/folder/xv0iyvzv38juz/Her_Şey">İndirmek İ&ccedil;in Tıklayın</a></p>
 <p><em>A&ccedil;ılmıyorsa </em><a href="https://raw.githubusercontent.com/BihaRaofl/biharaofl.github.io/main/psiphon3.exe"><em>Psiphon3</em></a><em> Veya Başka Bir VPN Uygulaması İle Deneyiniz.</em></p>
 <p><br></p>
 
